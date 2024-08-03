@@ -1,0 +1,62 @@
+In Python, operators are special symbols or keywords that are used to perform operations on variables and values. Here are the main types of operators in Python:
+
+Arithmetic Operators: Used to perform basic mathematical operations.
+
++ (Addition)
+- (Subtraction)
+* (Multiplication)
+/ (Division)
+% (Modulus)
+** (Exponentiation)
+// (Floor Division)
+Comparison (Relational) Operators: Used to compare two values.
+
+== (Equal)
+!= (Not equal)
+> (Greater than)
+< (Less than)
+>= (Greater than or equal to)
+<= (Less than or equal to)
+Assignment Operators: Used to assign values to variables.
+
+= (Assign)
++= (Add and assign)
+-= (Subtract and assign)
+*= (Multiply and assign)
+/= (Divide and assign)
+%= (Modulus and assign)
+//= (Floor divide and assign)
+**= (Exponent and assign)
+&= (Bitwise AND and assign)
+|= (Bitwise OR and assign)
+^= (Bitwise XOR and assign)
+>>= (Bitwise right shift and assign)
+<<= (Bitwise left shift and assign)
+Logical Operators: Used to combine conditional statements.
+
+and (Logical AND)
+or (Logical OR)
+not (Logical NOT)
+Bitwise Operators: Used to perform bit-level operations.
+
+& (Bitwise AND)
+| (Bitwise OR)
+^ (Bitwise XOR)
+~ (Bitwise NOT)
+<< (Bitwise left shift)
+>> (Bitwise right shift)
+Membership Operators: Used to test if a sequence contains a value.
+
+in (True if value is found in the sequence)
+not in (True if value is not found in the sequence)
+Identity Operators: Used to compare the memory locations of two objects.
+
+is (True if both variables point to the same object)
+is not (True if both variables do not point to the same object)
+These operators are essential for performing various operations and making decisions in your Python programs.
+
+
+
+
+
+
