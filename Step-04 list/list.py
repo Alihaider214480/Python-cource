@@ -12,3 +12,6 @@ print(fruits)
 #modifying list
 fruits[1]="guava"
 print(fruits)
+#adding item at choice loc
+fruits.insert(2,"mango")
+print(fruits)
