@@ -17,3 +17,22 @@ while True :
          
 print(f"name:{name}")
 print(f"age:{age}")
+
+#Second method
+"""
+name=input("enter your name?")
+age=input("enter your age?")
+while True:
+    if name.isalpha():
+      break
+    else :
+        print("you must give alphbet")
+while True:
+    if age.isdigit():
+        break
+    else :
+        print("your responce would be in digit")
+
+print(name)
+print(age)
+"""
