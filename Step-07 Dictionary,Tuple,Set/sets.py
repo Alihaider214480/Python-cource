@@ -1,4 +1,4 @@
-# ? A set is an unordered collection of unique elements
+# ? A set is an ordered collection of unique elements
 my_set={12,23,"pak","india"}
 print(my_set)
 #there is no order in out put so you have to give a unique values if you give duplicate values 

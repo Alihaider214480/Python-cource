@@ -6,15 +6,18 @@ for shoping in grossary:
 x=range(8)
 # x=[0,1,2,3,4,5,6,7]
 for a in x:
-    print(a)
-for m in range(2,8):
-          print(m)
+    print(a,end=" ")
+for m in range(2,8,2):
+          print(m,end=" ")
 for ali in range(9):
-      print(ali)
+      print(ali,end=" ")
 #while loop in python
-""""
-#i=10
-#l=11
-#while i>=7:
-      print(l)
-"""
+
+i=10
+l=11
+while i>=7:
+      if l>11:
+         print(l)
+      else:
+            
+             break
