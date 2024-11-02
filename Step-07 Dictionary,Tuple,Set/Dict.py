@@ -1,4 +1,4 @@
-# ? A dictionary is an unordered, mutable collection of key-value pairs.
+# ? A dictionary is an    ordered, mutable collection of key-value pairs.
 #in python every thing we write is an object
 Bio_data={"name":"Ali","age":25,"educaation":"FSC,DAE"}
 print(Bio_data)
@@ -46,7 +46,7 @@ print(unique_keys)#output shows place pakistan only
 
 # ? get(): Returns the value for a key, or None (or a specified default value) if the key is not found.
 print(Bio_data.get("name"))  # Output: ALi
-print(Bio_data.get("city", "Not Found"))  # Output: Not Found
+print(Bio_data.get("city"))  # Output: Not Found
 
 # ? keys(): Returns a view object containing the dictionary's keys.
 print(Bio_data.keys())  # Output: dict_keys(['name', 'FATHER'])
